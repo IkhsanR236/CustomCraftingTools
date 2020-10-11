@@ -4,4 +4,6 @@ This plugin has many types, namely emerald pickaxe and others.
 
 # How to Craft it?
 -EmerladPickaxe
+
 <a href="https://imgur.com/m45UOjZ"><img src="https://i.imgur.com/m45UOjZ.png" title="source: imgur.com" /></a>
+
